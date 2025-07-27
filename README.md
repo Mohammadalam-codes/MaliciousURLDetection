@@ -1,4 +1,4 @@
-# Phishing URL Detection Web Application
+# Malicious URL Detection Web Application
 
 ## Project Overview
 
