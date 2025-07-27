@@ -1,0 +1,6 @@
+Malicious:
+http://nzyokhcycq.duckdns.org
+
+Safe:
+https://icicibank.com
+https://www.google.com/
