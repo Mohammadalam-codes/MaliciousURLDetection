@@ -14,7 +14,7 @@ This project is a Python-based web application designed to detect phishing URLs 
 ## Technologies Used
 
 * **Python:** The core programming language for the application and machine learning logic.
-* * **Flask:** A lightweight micro-web framework for Python. Used for building the web interface and handling requests.
+* **Flask:** A lightweight micro-web framework for Python. Used for building the web interface and handling requests.
 * **scikit-learn:** A comprehensive machine learning library for Python, used for the Gradient Boosting Classifier model.
 * **Pandas:** A powerful data manipulation and analysis library for Python.
 * **HTML, CSS, JavaScript:** For structuring, styling, and adding interactivity to the web interface.
